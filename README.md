@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in front end development
 - 💞️ I’m looking to collaborate on Web3 world 
 - 📫 How to reach me? DM in TG: t.me/MD_SK_Hamid
-- 😄 Pronouns: he/her
+- 😄 Pronouns: he/him
 
 <!---
 RHHamid9/RHHamid9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
