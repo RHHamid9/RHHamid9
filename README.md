@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RHHamid9
-- 👀 I’m interested in Football & full stack development 
+- 👋 Hi, I’m Hamid
+- 👀 I’m interested in Web3 Space
 - 🌱 I’m currently learning in front end development
 - 💞️ I’m looking to collaborate on Web3 world 
 - 📫 How to reach me? DM in TG: t.me/MD_SK_Hamid
